@@ -2,6 +2,8 @@
 
 讲师必看：[课程开发指南](https://github.com/wd-tutorials/_template/wiki)
 
+本课程为内部课程，ppt链接：http://git.alipay.im/wd-structure/tree/master
+
 ### 课程简介
 
 本课程会依次谈及以下几个问题：
